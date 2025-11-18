@@ -54,8 +54,7 @@ I enjoy creating web applications and am dedicated to continuously learning new 
 <a href="https://dev.to/sadia_ahmed_bushra" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" height="40"/>
 </a>
-<a href="https://linkedin.com/in/sadia-ahmed" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/sadia-ahmed-062082263/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
 <a href="https://www.codechef.com/users/silly_meehack" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/>
@@ -70,10 +69,6 @@ I enjoy creating web applications and am dedicated to continuously learning new 
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadiaahmedbushra&show_icons=true&theme=default" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmedbushra" height="160px"/>
 </p>
 
 <p align="center">
