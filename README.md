@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bushra</h1>
-<h3 align="center">Full-time Teaching Assistant | MERN Stack Learner | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Full-time Teaching Assistant | Aspiring Full-Stack Developer</h3>
 
 ---
 
@@ -12,7 +12,7 @@ With a strong academic background in CSE (CGPA 3.98), I currently work as a full
 I enjoy creating web applications and am dedicated to continuously learning new technologies in the web development space.
 
 ### 🔭 Currently Working / Exploring
-- Exploring **Node.js**
+- Exploring **Next.js**
 - Learning **MERN Stack**
 - Exploring **MongoDB & API integrations**
 ---
